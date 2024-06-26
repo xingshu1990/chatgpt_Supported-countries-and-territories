@@ -1,7 +1,7 @@
 # chatgpt_Supported-countries-and-territories
 [chatgpt_Supported countries and territories
 ](https://platform.openai.com/docs/supported-countries)
-chatgpt搞了个封禁清单，
+chatgpt搞了个支持清单(应该不是API封禁区域的那个清单)，
 果然还是把湾湾分成一个**。<br/>
 如果官方解释他们把湾湾分成单独一个地区，
 那么为什么没看到香港？
